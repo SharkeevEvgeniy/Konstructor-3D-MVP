@@ -1,0 +1,36 @@
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csprojAssemblyReference.cache
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.Properties.Resources.resources
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.GenerateResource.cache
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.CoreCompileInputs.cache
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.exe.config
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.exe
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.pdb
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.exe
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.pdb
+C:\Users\mothe\Desktop\RoboTrek 3D\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.exe.config
+C:\Users\mothe\Desktop\RoboTrek 3D\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.exe
+C:\Users\mothe\Desktop\RoboTrek 3D\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.pdb
+C:\Users\mothe\Desktop\RoboTrek 3D\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csprojAssemblyReference.cache
+C:\Users\mothe\Desktop\RoboTrek 3D\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.Properties.Resources.resources
+C:\Users\mothe\Desktop\RoboTrek 3D\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.GenerateResource.cache
+C:\Users\mothe\Desktop\RoboTrek 3D\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.CoreCompileInputs.cache
+C:\Users\mothe\Desktop\RoboTrek 3D\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.exe
+C:\Users\mothe\Desktop\RoboTrek 3D\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.pdb
+C:\GitHub\Konstructor\Konstructor\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.exe.config
+C:\GitHub\Konstructor\Konstructor\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.exe
+C:\GitHub\Konstructor\Konstructor\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.pdb
+C:\GitHub\Konstructor\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.AssemblyReference.cache
+C:\GitHub\Konstructor\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.Properties.Resources.resources
+C:\GitHub\Konstructor\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.GenerateResource.cache
+C:\GitHub\Konstructor\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.CoreCompileInputs.cache
+C:\GitHub\Konstructor\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.exe
+C:\GitHub\Konstructor\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.pdb
+C:\GitHub\Konstructor\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.exe.config
+C:\GitHub\Konstructor\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.exe
+C:\GitHub\Konstructor\BrowserDialogApp\BrowserDialogApp\bin\Debug\BrowserDialogApp.pdb
+C:\GitHub\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.Properties.Resources.resources
+C:\GitHub\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.GenerateResource.cache
+C:\GitHub\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.CoreCompileInputs.cache
+C:\GitHub\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.exe
+C:\GitHub\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.pdb
+C:\GitHub\Konstructor\BrowserDialogApp\BrowserDialogApp\obj\Debug\BrowserDialogApp.csproj.AssemblyReference.cache

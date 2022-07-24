@@ -1,0 +1,9 @@
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\bin\Release\BrowserDialogApp.exe.config
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\bin\Release\BrowserDialogApp.exe
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\bin\Release\BrowserDialogApp.pdb
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Release\BrowserDialogApp.csprojAssemblyReference.cache
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Release\BrowserDialogApp.Properties.Resources.resources
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Release\BrowserDialogApp.csproj.GenerateResource.cache
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Release\BrowserDialogApp.csproj.CoreCompileInputs.cache
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Release\BrowserDialogApp.exe
+C:\Users\mothe\source\repos\BrowserDialogApp\BrowserDialogApp\obj\Release\BrowserDialogApp.pdb
