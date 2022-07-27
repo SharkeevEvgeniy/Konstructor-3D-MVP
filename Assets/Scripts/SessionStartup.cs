@@ -15,7 +15,7 @@ public class SessionStartup : MonoBehaviour
         AuthorizationModel authorizationModel = new AuthorizationModel();
         _authorizationPresenter = new AuthorizationPresenter(_authorizationView, authorizationModel);
         _authorizationView.SetPresenter(_authorizationPresenter);
-        _authorizationView.Initialization();
+        _authorizationView.Initialize();
 
         ProjectModel projectModel = new ProjectModel();
         ProjectPresenter projectPresenter = new ProjectPresenter(projectModel, _projectView);

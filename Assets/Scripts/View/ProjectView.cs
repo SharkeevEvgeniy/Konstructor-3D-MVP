@@ -18,7 +18,7 @@ public class ProjectView : MonoBehaviour, IExitDialogWindowHandler
     public void InitModel(GameObject model)
     {
         _modelInit.SetModel(model);
-        _modelInit.Initialization();
+        _modelInit.Initialize();
     }
 
     public void SetPresenter(ProjectPresenter presenter) => _projectPresenter = presenter;

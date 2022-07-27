@@ -4,6 +4,8 @@ public class DragCamera : MonoBehaviour
 {
     [SerializeField] CameraViewConfig _config;
 
+    [SerializeField] Transform _target;
+
     private Vector3 _deltaPos;
     private Vector3 _lastPos;
 
@@ -26,7 +28,7 @@ public class DragCamera : MonoBehaviour
         if (Input.GetMouseButton(2))
         {
             _deltaPos = Input.mousePosition - _lastPos;
-            Camera.main.transform.localPosition += new Vector3(-_deltaPos.x / _powerDragX, -_deltaPos.y / _powerDragY, -_deltaPos.x / _powerDragX);
+            _target.localPosition += new Vector3(-_deltaPos.x / _powerDragX, -_deltaPos.y / _powerDragY, -_deltaPos.x / _powerDragX);
             _lastPos = Input.mousePosition;
         }
     }

@@ -12,7 +12,7 @@ public class ModelInit : MonoBehaviour
 
     public void SetModel(GameObject model) => _object = model;
    
-    public void Initialization()
+    public void Initialize()
     {
         GizmoModel gizmoModel = new GizmoModel();
         gizmoModel.AutoScaleFactor = _config.AutoScaleFactor;
@@ -23,7 +23,7 @@ public class ModelInit : MonoBehaviour
         GizmoPresenter gizmoPresenter = new GizmoPresenter(gizmoModel, _gizmoView);
 
         _gizmoView.SetPresenter(gizmoPresenter);
-        _gizmoView.Initialization(_object.transform);
+        _gizmoView.Initialize(_object.transform);
 
         _object.AddComponent<MeshCollider>();
         _object.transform.SetParent(_grid);

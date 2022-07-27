@@ -14,7 +14,7 @@ public class AuthorizationView : MonoBehaviour
 
     public void SetPresenter(AuthorizationPresenter presenter) => _presenter = presenter;
 
-    public void Initialization()
+    public void Initialize()
     {
         _presenter.OnSuccessLoginnedEvent += SetCompanyName;
     }

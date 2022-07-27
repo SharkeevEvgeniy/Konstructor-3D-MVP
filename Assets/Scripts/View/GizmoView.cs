@@ -13,7 +13,7 @@ public class GizmoView : MonoBehaviour
 
     private bool _useSnap;
 
-    public void Initialization(Transform target)
+    public void Initialize(Transform target)
     {
         var transformHandle = RuntimeTransformHandle.Create(target, HandleType.POSITION);
         transformHandle.autoScaleFactor = _gizmoPresenter.GetGizmoModel().AutoScaleFactor;
